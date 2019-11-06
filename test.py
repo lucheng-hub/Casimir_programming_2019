@@ -1,10 +1,12 @@
 print('hello world')
 def function(x):
-    return c= 2 * 3.14 * x
-print(c)
+     c = 2 * 3.14 * x
+     return c
+print(function(3))
 
 #second edition
 
 def area(x):
-    return a= (3.14**2) *x
-print(a)
+    a = (3.14**2) *x
+    return a
+print(area(3))
