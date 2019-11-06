@@ -4,3 +4,7 @@ def function=(x):
 print(c)
 
 second edition
+
+def area=(x):
+    return a= (3.14**2) *x
+print(a)
